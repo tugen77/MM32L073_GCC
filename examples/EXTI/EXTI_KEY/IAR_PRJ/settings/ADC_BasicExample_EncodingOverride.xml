@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\Users\mindm0tion\Desktop\taoming\&#x51FD;&#x6570;&#x5e93;\MM32F031RegCB_MB_V1.3.0@1740\Boards_MM32x031\MB031C6T6_lib\ADC\ADC_BasicExample\SYSTEM\sys\sys.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\mindm0tion\Desktop\taoming\&#x51FD;&#x6570;&#x5e93;\MM32F031RegCB_MB_V1.3.0@1740\Device\MM32x031\HAL_lib\inc\dtype.h</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
